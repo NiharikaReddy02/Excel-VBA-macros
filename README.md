@@ -21,7 +21,3 @@ Adds the summary directly below the dataset.
 # Pivot Table Automation
 **Creates a Pivot Table analyzing:**
   - Total bike rentals grouped by season and weather.
-
-# Button Integration
-  - Excel Buttons are added to run macros in one click without opening the VBA editor.
-  - Makes the dashboard interactive and easy to use.
